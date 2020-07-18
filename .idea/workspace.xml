@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849da3e3-44da-454f-9a25-50bda08cddda" name="Default Changelist" comment="" />
+    <list default="true" id="849da3e3-44da-454f-9a25-50bda08cddda" name="Default Changelist" comment="saa">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cjc-shop-api-entity-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cjc-shop-api-entity-api/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cjc-shop-basics/target/" />
@@ -92,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cjc-shop-service-api/cjc-shop-service-api-weixin/src/main/java/com/cjc/weixin/service/WeiXinService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="78">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,10 +105,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cjc-shop-api-entity-api/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            <state relative-caret-position="162">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -223,7 +235,6 @@
         <option value="$PROJECT_DIR$/cjc-shop-service-impl/cjc-shop-service-member/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cjc-shop-service-impl/cjc-shop-service-weixin/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cjc-shop-service-impl/cjc-shop-service-member/src/main/java/com/cjc/member/feign/WeiXinServiceFeign.java" />
-        <option value="$PROJECT_DIR$/cjc-shop-service-api/cjc-shop-service-api-weixin/src/main/java/com/cjc/weixin/service/WeiXinService.java" />
         <option value="$PROJECT_DIR$/cjc-shop-basics/cjc-shop-basics-springcloud-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cjc-shop-basics/cjc-shop-basics-springcloud-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/cjc-shop-service-api/cjc-shop-service-api-member/src/main/java/com/cjc/member/service/MemberService.java" />
@@ -233,6 +244,8 @@
         <option value="$PROJECT_DIR$/cjc-shop-service-impl/cjc-shop-service-weixin/src/main/java/com/cjc/weixin/service/impl/WeiXinServiceImplX.java" />
         <option value="$PROJECT_DIR$/cjc-shop-service-impl/cjc-shop-service-weixin/src/main/java/com/cjc/weixin/service/impl/WeiXinServiceImpl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cjc-shop-service-api/cjc-shop-service-api-weixin/src/main/java/com/cjc/weixin/service/WeiXinService.java" />
+        <option value="$PROJECT_DIR$/cjc-shop-api-entity-api/pom.xml" />
       </list>
     </option>
   </component>
@@ -260,7 +273,7 @@
     <option name="jreName" value="#JAVA_HOME" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="112" />
     <option name="y" value="24" />
     <option name="width" value="1382" />
@@ -287,20 +300,7 @@
             <path>
               <item name="cjc-shop-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="cjc-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cjc-shop-basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cjc-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cjc-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cjc-shop-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="cjc-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cjc-shop-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cjc-shop-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="cjc-shop-basics" type="462c0819:PsiDirectoryNode" />
-              <item name="cjc-shop-basics-springcloud-zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="cjc-shop-api-entity-api" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,6 +313,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -404,12 +405,27 @@
       <option name="presentableId" value="Default" />
       <updated>1594912166563</updated>
       <workItem from="1594912169670" duration="24596000" />
-      <workItem from="1595031214852" duration="3392000" />
+      <workItem from="1595031214852" duration="4832000" />
     </task>
+    <task id="LOCAL-00001" summary="saa">
+      <created>1595058428367</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595058428367</updated>
+    </task>
+    <task id="LOCAL-00002" summary="saa">
+      <created>1595058531191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595058531191</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27988000" />
+    <option name="totallyTimeSpent" value="29428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,31 +437,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23827533" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23827533" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="7" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Spring" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35081968" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.95090014" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32786885" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -460,6 +476,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="saa" />
+    <option name="LAST_COMMIT_MESSAGE" value="saa" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cjc-shop-basics/cjc-shop-basics.iml" />
@@ -483,13 +529,6 @@
     <entry file="file://$PROJECT_DIR$/cjc-shop-service-api-weixin/src/main/java/com/cjc/weixin/service/WeiXinService.java" />
     <entry file="file://$PROJECT_DIR$/cjc-shop-service-impl/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cjc-shop-api-entity-api/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cjc-shop-service-impl/cjc-shop-service-weixin/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -656,16 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cjc-shop-service-api/cjc-shop-service-api-weixin/src/main/java/com/cjc/weixin/service/WeiXinService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter/2.0.1.RELEASE/spring-boot-starter-2.0.1.RELEASE.jar!/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -681,8 +710,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="162">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjc-shop-service-api/cjc-shop-service-api-weixin/src/main/java/com/cjc/weixin/service/WeiXinService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cjc-shop-api-entity-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
