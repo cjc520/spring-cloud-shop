@@ -15,6 +15,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Api(tags = "微信服务接口")
 public interface WeiXinService {
 
+
+
     /**
      * 获取应用接口
      * @return
